@@ -1,0 +1,7 @@
+[package]
+name = "troutspeak"
+version = "0.1.0"
+authors = ["mhjlam <mhjlam@gmail.com>"]
+edition = "2018"
+
+[dependencies]
